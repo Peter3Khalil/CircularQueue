@@ -1,0 +1,12 @@
+{
+  "name": "circularqueue",
+  "version": "1.0.0",
+  "main": "CircularQueue.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
